@@ -44,7 +44,7 @@ Dice Game is a simple two-player dice game. The objective of the game is to reac
 - `index.html`: Main HTML file for the game.
 - `style.css`: CSS file for styling the game.
 - `script.js`: JavaScript file for game logic.
-- images of Dice points.
+- Images of Dice points.
 
 ## Contributing
 
