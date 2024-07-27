@@ -24,8 +24,8 @@ Dice Game is a simple two-player dice game. The objective of the game is to reac
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hamza-tahir55/dice-game.git
-    cd dice-game
+    git clone https://github.com/hamza-tahir55/Dice-Game.git
+    cd Dice-Game
     ```
 
 2. Open `index.html` in your preferred web browser.
